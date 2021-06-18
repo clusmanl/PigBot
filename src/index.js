@@ -17,7 +17,7 @@ client.once('ready', () => {
     console.log('Pig is ready !');
 });
 
-client.login(process.env.TOKEN);
+client.login("ODU1MjE2OTYwNTM5MTk3NDQw.YMvQ3A.KczCsvP5liuTt8nMcc_VJbc7UX4");
 
 /* MESSAGE RECEIVED */
 client.on('message', async message => {
