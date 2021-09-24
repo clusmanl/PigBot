@@ -1,0 +1,26 @@
+{
+  "name": "pigbot",
+  "version": "1.0.1",
+  "description": "A bot that invites a pig in the channel.",
+  "main": "src/index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clusmanl/PigBot.git"
+  },
+  "author": "Lucas Clusman",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/clusmanl/PigBot/issues"
+  },
+  "homepage": "https://github.com/clusmanl/PigBot#readme"
+}
